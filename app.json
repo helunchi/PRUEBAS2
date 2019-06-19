@@ -1,0 +1,26 @@
+{
+  "id": "dfed4325-8e2a-473f-bb85-4770fe157841",
+  "name": "HolaMundo2",
+  "publisher": "ERL",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://HolaMundo2.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
